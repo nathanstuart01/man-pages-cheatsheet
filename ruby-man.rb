@@ -1,5 +1,5 @@
 #variables are created to use a variable more than once
-@options = ['cd', 'mkdir', 'touch', 'vim', 'touch']
+@options = ['cd', 'mkdir', 'touch', 'vim', 'touch', 'pbcopy']
 
 def main_menu
   puts '***** command line menu ***'
